@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/fxlcaovini">
-    <img height="150em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=fxlcaovini&langs_count=8 />
+    <img height="150em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=fxlcaovini&langs_count=8" />
   </a>
 </div>
 
