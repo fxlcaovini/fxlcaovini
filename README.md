@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/fxlcaovini/">Vinicius Falcão </a>
   </h1>
   <p align="center">
-   Aqui você encontra meu portfólio, desenvolvido principalmente para fins de aprendizado 
+   Atualmente Cursando Graduação em Análise e Desenvolvimento de sistemas <br> Aqui você encontra meu portfólio, desenvolvido principalmente para fins de aprendizado 
   </p>
   
 </div>
