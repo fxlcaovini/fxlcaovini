@@ -2,11 +2,8 @@
   
   <h1 align="center">
     Oi Tudo bem? Me chamo 
-    <a href="https://www.linkedin.com/in/edudufxlcaovini/">Vinicius Falcão </a>
+    <a href="https://www.linkedin.com/in/fxlcaovini/">Vinicius Falcão </a>
   </h1>
-    <p align="center">
-  No momento, estou aprimorando meus conhecimentos em linguagens back-end 
-  </p>
   <p align="center">
    Aqui você encontra meu portfólio, desenvolvido principalmente para fins de aprendizado 
   </p>
@@ -15,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/fxlcaovini">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxlcaovini&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=fxlcaovini&langs_count=8 />
   </a>
 </div>
 
@@ -27,7 +24,7 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+
 </div><br>
 
 <div align="center">
