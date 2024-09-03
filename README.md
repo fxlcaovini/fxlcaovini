@@ -4,7 +4,9 @@
     Oi Tudo bem? Me chamo 
     <a href="https://www.linkedin.com/in/edudufxlcaovini/">Vinicius Falcão </a>
   </h1>
-  
+    <p align="center">
+  No momento, estou aprimorando meus conhecimentos em linguagens back-end 
+  </p>
   <p align="center">
    Aqui você encontra meu portfólio, desenvolvido principalmente para fins de aprendizado 
   </p>
@@ -13,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/fxlcaovini">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxlcaovini&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxlcaovini&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
