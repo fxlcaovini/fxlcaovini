@@ -1,11 +1,11 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Me chamo 
-    <a href="https://www.linkedin.com/in/fxlcaovini/">Vinicius Falcão </a>
+    Oi, Meu nome é 
+    <a href="https://www.linkedin.com/in/fxlcaovini/">Vinicius  </a>
   </h1>
   <p align="center">
-   Atualmente Cursando Graduação em Análise e Desenvolvimento de Sistemas <br> <br> Aqui você encontra meu portfólio, desenvolvido principalmente para fins de aprendizado 
+    Aqui você encontra meu portfólio, desenvolvido principalmente para fins de aprendizado 
   </p>
   
 </div>
