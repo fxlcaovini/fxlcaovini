@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi, Meu nome é 
-    <a href="https://www.linkedin.com/in/fxlcaovini/">Vinicius  </a>
+    Vinicius
   </h1>
   <p align="center">
     Aqui você encontra meu portfólio, desenvolvido principalmente para fins de aprendizado 
