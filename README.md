@@ -10,11 +10,7 @@
   
 </div>
 
-<div align="center">
-  <a href="https://github.com/fxlcaovini">
-    <img height="150em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=fxlcaovini&langs_count=9&layout=compact&theme=tokyonight&card_width=500px" />
-  </a>
-</div>
+
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
