@@ -1,8 +1,8 @@
 <div>
-<h1 align="center">Olá, eu sou o Vini Falcão 👋</h1>
+<h1 align="center">Olá, eu sou o Vinicius 👋</h1>
 
 <p align="center">
-  Desenvolvedor back end em evolução, focado em criação de sistemas e soluções que resolvem problemas reais.
+  Desenvolvedor Back end em evolução, focado em criação de sistemas e soluções que resolvem problemas reais.
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 🚀 Sobre mim
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-]- 📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento  
+- 📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento
 
 ---
 
